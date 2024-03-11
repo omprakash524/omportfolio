@@ -1,0 +1,27 @@
+:root {
+    /* Colours */
+    --color-text: #fff;
+    --color-primary: #576cbc;
+    --color-secondary: #19376d;
+    --color-dark: #0b2447;
+    --color-bg: #04152d;
+  
+    /* Fonts */
+    --font-roboto: "Roboto";
+  }
+  
+  :root{
+    --main-bg: #1e272e;
+    --main-color: #0097e6;
+  }
+  .text_clr {
+    color: var(--main-color);
+    text-decoration-color: rgb(0, 255, 229);
+  }
+
+
+footer {
+  color: var(--color-text);
+  text-align: center;
+ 
+}

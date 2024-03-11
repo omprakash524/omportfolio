@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Full-Stack Doctor Appointment booking System",
+    "imageSrc": "projects/doctor.jpg",
+    "description": "The MERN stack project ReactJS for dynamic front-end development Node.js for server-side scripting, and MongoDB for flexible data handling.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/omprakash524"
+  },
+  {
+    "title": "Fullstack AI Saas Platform",
+    "imageSrc": "projects/ai.jpeg",
+    "description": "AI in SaaS development is increasing rapidly. SaaS (Software-as-a-Service) is a new-age software service method. It's a cloud-based software model that is accessible via the Internet..",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/omprakash524"
+  },
+  {
+    "title": "MERN Car rental Website",
+    "imageSrc": "projects/car2.png",
+    "description": "React, Bootstrap, and Tailwind CSS, Dynamic web application with enhanced performance and a responsive user interface. And provide best services unlike Ola and Uber",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/omprakash524"
+  }
+]
